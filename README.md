@@ -11,12 +11,11 @@
 Frontend system that stores and imports CSV files of incoming and outcome financial transactions.
 
 <p align="center">
-  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tests">Tests</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-author">Author</a>
-
+  <a href="#techs-">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#install-">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tests-">Tests</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license-">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author-">Author</a>
 </p>
 
 
@@ -63,9 +62,8 @@ Or
 ```sh
 $ npm run test
 ```
-## 📝 License
-
+## License 📝
 This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ## Author 👨🏻‍💻
-[@jilvanx](https://jilvanx.github.io)
+[https://jilvanx.github.io](https://jilvanx.github.io)
